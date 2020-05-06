@@ -1,2 +1,4 @@
 Name Patiparn Kijparkornkitti (Boss)
- - Test String2Int
+TestString2Int
+ - Code java => src/String2Int.java
+ - JarFile => Test.jar
