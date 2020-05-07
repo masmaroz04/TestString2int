@@ -9,14 +9,15 @@ public class String2Int {
         String[] charc = allCharacter.getAllChar().split("");
         String[] fixNumber = allCharacter.getFixNumber().split(" ");
 
+        int num = 0;
         for(int i = 0 ; i < charc.length ; i++){
             for(int j = 0 ; j < fixNumber.length; j++) {
                 if(fixNumber[j].equals(charc[i]+"")){
-                    System.out.print(fixNumber[j]);
+                    num = num*10+fixNumber[j].charAt(0) - '0';
                 }
-
             }
         }
+        System.out.println(num);
 
     }
 }
