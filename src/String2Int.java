@@ -15,6 +15,7 @@ public class String2Int {
                 if(fixNumber[j].equals(charc[i]+"")){
                     num = num*10+fixNumber[j].charAt(0) - '0';
                 }
+
             }
         }
         System.out.println(num);

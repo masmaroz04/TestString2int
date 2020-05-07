@@ -8,11 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6bda5104-79d5-4a18-a8c4-ded8dcef03ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Test.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Test_jar/Test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Test_jar/Test.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/AllCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/AllCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/String2Int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/String2Int.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String2Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2Int.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588857304855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588857566692" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
